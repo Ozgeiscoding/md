@@ -2,7 +2,7 @@
 
 ### İlk açılan terminal
 
-1.  **Depoyu Klonlayın:**
+1.  **Klasöre gidin**
     ```bash
     cd robotaksi_ws
     ```
@@ -16,12 +16,13 @@
     
 ## Yeni terminal
 
-**Konteynere Bağlanın:**
+1. **Konteynere Bağlanın:**
     Yeni bir terminal açın:
     ```bash
     docker exec -it robotaksi bash
     ```
-
+    
+2.
     ```bash
     cd ~/robotaksi_ws
     source install/setup.bash
