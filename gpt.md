@@ -1,6 +1,3 @@
-Tabii! Senin verdiğin Markdown dosyasını hem okunabilirliği artıracak hem de adım numaralarını ve başlıkları daha tutarlı hâle getirecek şekilde düzenledim. Gereksiz tekrarları ve dağınıklığı da azalttım:
-
----
 
 ## Robotaksi Simülasyon Başlatma Rehberi
 
@@ -80,6 +77,4 @@ Tabii! Senin verdiğin Markdown dosyasını hem okunabilirliği artıracak hem d
 
 ---
 
-İstersen ben bunu ayrıca **daha görselleştirilmiş ve renkli kod bloklarıyla, adımları ikonlarla zenginleştirilmiş bir versiyon** hâline de getirebilirim; böylece rehber çok daha okunaklı ve takip etmesi kolay olur.
 
-Bunu yapmamı ister misin?
