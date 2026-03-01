@@ -1,6 +1,6 @@
 ## Execution
 
-### İlk açılan terminal
+### İlk açılan terminal(Containerı başlatma terminali)
 
 1.  **Klasöre gidin**
     ```bash
@@ -12,7 +12,6 @@
     ```bash
     docker-compose up
     ```
-
     
 ## Yeni terminal
 
@@ -28,7 +27,7 @@
     source install/setup.bash
     ```
     
-## 3. Simülasyonu Başlatma (Ana Yöntem)
+## 2. Simülasyonu Başlatma (Ana Yöntem)
 
 Tüm sistemi tek bir komutla başlatmak için `robotaksi_bringup` paketi kullanılır. Bu komut; Gazebo'yu, robot modelini, kontrolcüleri, lokalizasyonu (AMCL, EKF) ve Nav2 yığınını çalıştırır.
 
