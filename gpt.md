@@ -33,7 +33,7 @@
 
 ---
 
-### 3. Simülasyonu Başlatma (Ana Yöntem)
+### 3. Simülasyonu Başlatma Terminali
 
 `robotaksi_bringup` paketi ile tüm sistemi tek komutla başlatabilirsiniz. Bu komut; Gazebo, robot modeli, kontrolcüler, lokalizasyon (AMCL, EKF) ve Nav2 yığınını çalıştırır.
 
