@@ -1,6 +1,5 @@
-
 ## Robotaksi Simülasyon Başlatma Rehberi
----
+
 ### 1. İlk Terminal (Container Başlatma)
 
 1. **Çalışma klasörüne gidin:**
