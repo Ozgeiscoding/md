@@ -63,6 +63,7 @@ Eğer bringup içinde navigation yoksa veya navigasyonu ayrı başlatmak istiyor
 ```bash
 ros2 launch robotaksi_navigation navigation.launch.py
 ```
+
 Bu komut Nav2 stack'ini başlatır (planner, controller, bt_navigator vb.).
 
 ---
