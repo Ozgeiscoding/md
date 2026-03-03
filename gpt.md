@@ -55,26 +55,6 @@
 
 ---
 
-### 4. Yardımcı Komutlar (Hata Ayıklama ve Özel Görevler)
-
-* **Sadece Manuel Sürüş (Joystick ile):**
-  Aracın temel hareketlerini test etmek için:
-
-  ```bash
-  # Gazebo'yu başlatın
-  ros2 launch robotaksi_description gazebo.launch.py
-  # Ardından joystick'i başlatın
-  ros2 launch robotaksi_controller joystick.launch.py
-  ```
-
-* **Haritalama (SLAM):**
-  Yeni bir ortamın haritasını çıkarmak için:
-
-  ```bash
-  ros2 launch robotaksi_mapping slam.launch.py
-  ```
-
----
 
 ### 4. Navigasyonu Ayrı Başlatmak (Opsiyonel)
 
@@ -84,6 +64,7 @@ Eğer bringup içinde navigation yoksa veya navigasyonu ayrı başlatmak istiyor
 ros2 launch robotaksi_navigation navigation.launch.py
 ```
 
+---
 Bu komut Nav2 stack'ini başlatır (planner, controller, bt_navigator vb.).
 
 
