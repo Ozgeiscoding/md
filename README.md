@@ -27,7 +27,6 @@
 2. Çalışma alanına gidin ve ROS 2 ortamını yükleyin:
 
    ```bash
-   cd ~/robotaksi_ws
    source install/setup.bash
    ```
 
