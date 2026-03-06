@@ -40,7 +40,6 @@
 
    ```bash
    docker exec -it robotaksi bash
-   cd ~/robotaksi_ws
    source install/setup.bash
    ```
 
