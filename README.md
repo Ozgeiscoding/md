@@ -39,8 +39,7 @@
 1. Yeni terminal açın, konteynere bağlanın ve ortamı yükleyin:
 
    ```bash
-   docker exec -it robotaksi bash
-   source install/setup.bash
+   docker exec -it robotaksi bash -c "source install/setup.bash && bash"
    ```
 
 2. Ana başlatma komutunu çalıştırın:
